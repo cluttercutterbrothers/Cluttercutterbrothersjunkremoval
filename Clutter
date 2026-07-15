@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>CC Brothers Junk Removal & Hauling</title>
+
+<style>
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #111;
+  color: white;
+}
+
+header {
+  background: #1b1b1b;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.logo {
+  width: 180px;
+  max-width: 80%;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #f5c400;
+  font-size: 42px;
+  margin: 10px 0;
+}
+
+h2 {
+  color: #f5c400;
+  text-align: center;
+  font-size: 30px;
+}
+
+h3 {
+  color: #f5c400;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.button {
+  display: inline-block;
+  background: #f5c400;
+  color: black;
+  padding: 15px 28px;
+  margin: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.button:hover {
+  background: white;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+.card {
+  background: #222;
+  padding: 25px;
+  border-radius: 12px;
+  max-width: 700px;
+  margin: 20px auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 18px;
+  padding: 8px;
+}
+
+footer {
+  background: #1b1b1b;
+  text-align: center;
+  padding: 20px;
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<!-- Add your logo here later -->
+
+<h1>
+CC Brothers Junk Removal & Hauling
+</h1>
+
+<h2>
+We haul it all. You relax.
+</h2>
+
+<p>
+Fast • Reliable • Affordable
+</p>
+
+<p>
+We remove unwanted junk, debris, vehicles, and more throughout Middle Tennessee.
+</p>
+
+
+<a class="button" href="tel:6158708030">
+Call Now
+</a>
+
+
+<a class="button" href="https://calendly.com/ccbrothersjunk/30min" target="_blank">
+Book Online
+</a>
+
+
+</header><section>
+
+<h2>What We Remove</h2>
+
+<div class="card">
+
+<ul>
+<li>✔ Furniture</li>
+<li>✔ Appliances</li>
+<li>✔ Mattresses</li>
+<li>✔ Garage Cleanouts</li>
+<li>✔ Attic & Basement Cleanouts</li>
+<li>✔ Yard Waste</li>
+<li>✔ Construction Debris</li>
+<li>✔ Estate Cleanouts</li>
+<li>✔ Office Cleanouts</li>
+<li>✔ Hot Tubs</li>
+<li>✔ Sheds</li>
+<li>✔ Old Equipment</li>
+<li>✔ Cars & Trucks</li>
+<li>✔ Trailers</li>
+<li>✔ General Junk Removal</li>
+</ul>
+
+</div>
+
+</section>
+
+
+
+<section>
+
+<h2>Our Services</h2>
+
+
+<div class="card">
+
+<h3>Junk Removal</h3>
+
+<p>
+From small pickups to large cleanouts, we remove unwanted items quickly and responsibly.
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<h3>Vehicle Removal</h3>
+
+<p>
+Need an old car, truck, or trailer removed? Contact us for pickup availability.
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<h3>Property Cleanouts</h3>
+
+<p>
+We help with garages, estates, rentals, businesses, and full property cleanouts.
+</p>
+
+</div>
+
+
+</section>
+
+
+
+<section>
+
+<h2>How It Works</h2>
+
+
+<div class="card">
+
+<h3>1. Schedule</h3>
+<p>
+Call, text, or book online to choose a convenient time.
+</p>
+
+
+<h3>2. We Remove It</h3>
+<p>
+Our team arrives, loads everything up, and clears your space.
+</p>
+
+
+<h3>3. Enjoy Your Space</h3>
+<p>
+No more clutter — just a clean area you can use again.
+</p>
+
+
+</div>
+
+</section>
+
+
+
+<section>
+
+<h2>Why Choose CC Brothers?</h2>
+
+
+<div class="card">
+
+<p>✔ Locally owned and operated</p>
+
+<p>✔ Fast scheduling</p>
+
+<p>✔ Fair pricing</p>
+
+<p>✔ Professional service</p>
+
+<p>✔ Residential & commercial hauling</p>
+
+<p>✔ We do the heavy lifting</p>
+
+
+</div>
+
+</section><section>
+
+<h2>Serving Middle Tennessee</h2>
+
+<div class="card">
+
+<p>
+Based out of White Bluff, TN
+</p>
+
+<p>
+Serving:
+<br><br>
+White Bluff
+<br>
+Dickson
+<br>
+Nashville
+<br>
+Clarksville
+<br>
+Murfreesboro
+<br>
+and surrounding areas
+</p>
+
+</div>
+
+</section>
+
+
+
+<section>
+
+<h2>Get Your Free Quote</h2>
+
+<div class="card">
+
+<p>
+Ready to get rid of your unwanted junk?
+Call or text today and let CC Brothers take care of the heavy lifting.
+</p>
+
+
+<a class="button" href="tel:6158708030">
+Call For Quote
+</a>
+
+
+<a class="button" href="https://calendly.com/ccbrothersjunk/30min" target="_blank">
+Schedule Online
+</a>
+
+
+</div>
+
+</section>
+
+
+
+<section>
+
+<h2>Frequently Asked Questions</h2>
+
+
+<div class="card">
+
+<h3>How much does junk removal cost?</h3>
+
+<p>
+Pricing depends on the amount and type of items being removed. Contact us for a free quote.
+</p>
+
+
+<h3>Do you remove cars and trucks?</h3>
+
+<p>
+Yes, we offer vehicle removal. Contact us for details and availability.
+</p>
+
+
+<h3>Do I need to move everything outside?</h3>
+
+<p>
+No. We can remove items from garages, homes, yards, and other areas.
+</p>
+
+
+<h3>How do I schedule?</h3>
+
+<p>
+Call, text, or use our online booking button to choose a time.
+</p>
+
+
+</div>
+
+</section>
+
+
+
+<footer>
+
+CC Brothers Junk Removal & Hauling © 2026
+
+<br><br>
+
+Fast • Reliable • Affordable
+
+</footer>
+
+
+
+</body>
+
+</html>
